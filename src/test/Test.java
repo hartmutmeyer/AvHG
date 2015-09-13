@@ -27,9 +27,6 @@ public class Test extends JFrame {
 		});
 	}
 
-	/**
-	 * Create the frame.
-	 */
 	public Test() {
 		super("Git Test");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
